@@ -30,7 +30,7 @@ Examples: `ROUND-1-CHECKPOINT`, `ROUND-2-CHECKPOINT`, `ROUND-3-CHECKPOINT`, `ROU
 Good luck, and have fun with the chaos!!!!
 
 ‼️‼️‼️‼️
-## 🔔 Round 2 Twist (11:10 AM – 12:10 PM)
+##  Round 2 Twist (11:10 AM – 12:10 PM)
 
 Integrate the **Frankfurter currency conversion API** into your app in a meaningful way — it should connect to your app's core functionality, not just sit in a corner. For example: let users view a listing's price converted into a different currency of their choice.
 
