@@ -27,4 +27,4 @@ Examples: `ROUND-1-CHECKPOINT`, `ROUND-2-CHECKPOINT`, `ROUND-3-CHECKPOINT`, `ROU
 - Do not look at or copy from other teams' forks.
 - Full event timeline and round-by-round constraints will be shared separately (via registration confirmation / event channel) — this repo is just your working base.
 
-Good luck, and have fun with the chaos.
+Good luck, and have fun with the chaos!!!!
