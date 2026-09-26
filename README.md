@@ -53,3 +53,10 @@ Integrate the **Frankfurter currency conversion API** into your app in a meaning
 
 **Checkpoint due by 12:20 PM:** commit with message `ROUND-2-CHECKPOINT`
 
+‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
+## Round 3 Twist (12:20 PM – 1:20 PM)
+
+No new external libraries or frameworks allowed from this point on — no new packages, no CSS frameworks, no component libraries. Anything already in your stack from Hours 1–2 can stay, but nothing new can be added this round. Native/vanilla only for new work.
+
+**Checkpoint due by 1:30 PM:** commit with message `ROUND-3-CHECKPOINT`
+
