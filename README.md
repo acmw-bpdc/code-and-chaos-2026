@@ -28,3 +28,15 @@ Examples: `ROUND-1-CHECKPOINT`, `ROUND-2-CHECKPOINT`, `ROUND-3-CHECKPOINT`, `ROU
 - Full event timeline and round-by-round constraints will be shared separately (via registration confirmation / event channel) — this repo is just your working base.
 
 Good luck, and have fun with the chaos!!!!
+
+‼️‼️‼️‼️
+## 🔔 Round 2 Twist (11:10 AM – 12:10 PM)
+
+Integrate the **Frankfurter currency conversion API** into your app in a meaningful way — it should connect to your app's core functionality, not just sit in a corner. For example: let users view a listing's price converted into a different currency of their choice.
+
+- API docs: https://frankfurter.dev
+- No API key required
+- Example request: `https://api.frankfurter.app/latest?amount=100&from=USD&to=EUR`
+
+**Checkpoint due by 12:20 PM:** commit with message `ROUND-2-CHECKPOINT`
+
