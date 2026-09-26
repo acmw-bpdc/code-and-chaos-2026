@@ -60,3 +60,11 @@ No new external libraries or frameworks allowed from this point on — no new pa
 
 **Checkpoint due by 1:30 PM:** commit with message `ROUND-3-CHECKPOINT`
 
+
+‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️‼️
+## 🔔 Round 4 Twist (1:30 PM – 2:30 PM)
+
+Reskin your app with a completely new theme while keeping the same underlying functionality (e.g. listings app → "space mission cargo manifest"). This should include visual and copy changes reflecting the new theme, not just a renamed title.
+
+**Final checkpoint due by 2:40 PM:** commit with message `ROUND-4-CHECKPOINT`
+
