@@ -68,3 +68,8 @@ Reskin your app with a completely new theme while keeping the same underlying fu
 
 **Final checkpoint due by 2:40 PM:** commit with message `ROUND-4-CHECKPOINT`
 
+
+
+## 🏁 Event Ended
+Congratulations, You've made it to the end!!!
+Code & Chaos has ended. Thank you for participating! Results will be shared soon.
